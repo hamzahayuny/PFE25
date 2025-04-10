@@ -52,12 +52,12 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/header-bg-1.jpg) no-repeat">
-   <h1>about us</h1>
+   <h1>réalisation</h1>
 </div>
 
 <!-- about section starts  -->
 
-<section class="about">
+<section class="réalisation">
 
    <div class="image">
       <img src="images/about-img.jpg" alt="">

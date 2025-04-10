@@ -160,7 +160,7 @@
 
 
 
-<!-- home offer section ends -->
+
 
 <button type="button" class="scroll-top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></button>
 <!-- footer section starts  -->

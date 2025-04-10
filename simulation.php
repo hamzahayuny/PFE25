@@ -39,7 +39,7 @@
    <nav class="navbar">
       <a href="home.php" class="active">home</a>
       <a href="réalisation.php">réalisation</a>
-      <a href="simulation.php">simulation</a>
+      <a href="simulateur.php">simulation</a>
       <a href="packages.php">packages</a>
       <a href="about.php">about</a>
       <a href="contact.php">contact</a>
@@ -52,12 +52,12 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/header-bg-1.jpg) no-repeat">
-   <h1>about us</h1>
+   <h1>simulation</h1>
 </div>
 
 <!-- about section starts  -->
 
-<section class="about">
+<section class="simulation">
 
    <div class="image">
       <img src="images/about-img.jpg" alt="">
