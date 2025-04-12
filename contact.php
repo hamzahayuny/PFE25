@@ -37,12 +37,12 @@
 <section class="header">
 <a href="home.php" class="logo"><img src="images/uni.png"></a>
    <nav class="navbar">
-      <a href="home.php" class="active">home</a>
+      <a href="home.php" >home</a>
       <a href="réalisation.php">réalisation</a>
       <a href="simulation.php">simulation</a>
       <a href="packages.php">packages</a>
       <a href="about.php">about</a>
-      <a href="contact.php">contact</a>
+      <a href="contact.php" class="active">contact</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -51,7 +51,7 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/header-bg-3.jpg) no-repeat">
+<div class="heading" style="background:url(images/header-bg-33.jpg) no-repeat">
    <h1>contact now</h1>
 </div>
 
@@ -154,14 +154,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <div class="box">
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +216 70 256 445</a>
-         <a href="#"> <i class="fas fa-envelope"></i> contact@inilumin.com.tn </a>
+         <a href="#"> <i class="fas fa-envelope"></i> contact@unilumin.com.tn </a>
          <a href="#"> <i class="fas fa-map"></i> Impasse 2 rue 8612 , charguia 1 , 2035  </a>
       </div>
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="https://tn.linkedin.com/company/unilumintunisia?trk=public_post_feed-actor-name"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <a href="https://www.facebook.com/UniluminTunisia/about?locale=fr_FR"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://www.instagram.com/unilumintn/"> <i class="fab fa-instagram"></i> instagram </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
       </div>
    </div>

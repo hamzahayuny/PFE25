@@ -37,11 +37,11 @@
    <a href="home.php" class="logo"><img src="images/uni.png"></a>
 
    <nav class="navbar">
-      <a href="home.php" class="active">home</a>
+      <a href="home.php" >home</a>
       <a href="réalisation.php">réalisation</a>
       <a href="simulation.php">simulation</a>
       <a href="packages.php">packages</a>
-      <a href="about.php">about</a>
+      <a href="about.php" class="active">about</a>
       <a href="contact.php">contact</a>
    </nav>
 
@@ -51,7 +51,7 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/header-bg-1.jpg) no-repeat">
+<div class="heading" style="background:url(images/header-bg-11.jpg) no-repeat">
    <h1>about us</h1>
 </div>
 
@@ -60,13 +60,38 @@
 <section class="about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/about-img.webp" alt="">
    </div>
-
-   
+   <div class="content">
+      <h3>why choose us?</h3>
+      <p>Unilumin, is the LED application pioneer, established in 2004, providing professional LED application services, including the world's leading LED display and lighting products and Metasight solutions.
+      </p>
+      <div class="icons-container">
+         <div class="icons">
+            <i class="fas fa-map"></i>
+            <span>top destinations</span>
+         </div>
+         <div class="icons">
+            <i class="fas fa-headset"></i>
+            <span>24/7 guide service</span>
+         </div>
+         <div class="icons">
+            <i class="fas fa-hand-holding-usd"></i>
+            <span>reasonable price</span>
+         </div>
+      </div>
 
 </section>
+<section class="about">
 
+<div class="image">
+      <img src="images/about-img-1.webp" alt="">
+   </div>
+   <div class="content">
+      <h3>What Unilumin Solutions bring to you?</h3>
+      <p>On the basis of LED semiconductor products, Unilumin integrates software definiton, intelligent control, remote clusters, IoT interconnection, 5G transmission, ultra-high-definition video, XR production, naked-eye 3D and other cutting-edge technological means, creating the first  integrated "hardware + software + content + interaction" Metasight solutions in the industry.
+      </p>
+      </section>
 
 <button type="button" class="scroll-top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></button>
 
@@ -86,13 +111,13 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +216 70 256 445</a>
          <a href="#"> <i class="fas fa-envelope"></i> contact@unilumin.com.tn </a>
-         <a href="#"> <i class="fas fa-map"></i> Impasse 2 rue 8612 , charguia 1 , 2035  </a>
+         <a href="https://www.google.com/maps/place/Unilumin+tunisia,+Africa+office/@36.8326349,10.2034771,17z/data=!4m14!1m7!3m6!1s0x12fd359de60d871d:0x42b1ee122ba74f80!2sUnilumin+tunisia,+Africa+office!8m2!3d36.8326349!4d10.2034771!16s%2Fg%2F11lcx4rjqt!3m5!1s0x12fd359de60d871d:0x42b1ee122ba74f80!8m2!3d36.8326349!4d10.2034771!16s%2Fg%2F11lcx4rjqt?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoJLDEwMjExNjM5SAFQAw%3D%3D"> <i class="fas fa-map"></i> Impasse 2 rue 8612 , charguia 1 , 2035  </a>
       </div>
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="https://tn.linkedin.com/company/unilumintunisia?trk=public_post_feed-actor-name"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <a href="https://www.facebook.com/UniluminTunisia/about?locale=fr_FR"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://www.instagram.com/unilumintn/"> <i class="fab fa-instagram"></i> instagram </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
       </div>
    </div>
